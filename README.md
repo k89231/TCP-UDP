@@ -1,4 +1,4 @@
-# UDP/UDP
+# TCP/UDP
 A python project to communicate thru UDP & UDP protocol
 Tested on Windows10/Jupyter Notebook
 
